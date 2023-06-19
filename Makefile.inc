@@ -16,3 +16,5 @@ APPL_DIRS += $(mkfile_path)add_your_dir
 
 INCLUDES += \
 	-I$(mkfile_path)add_your_dir
+
+# COPTS += -fno-use-cxa-atexit
